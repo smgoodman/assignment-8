@@ -1,0 +1,60 @@
+---
+title: "GitHub Assignment"
+author: "Sarah Goodman"
+date: "2022-12-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+What I learned from each week in this class:
+
+Week 1:
+
+  - I have used RStudio before however I have never used and rmd sheet.
+  
+  - The Bias-Variance tradeoff and the weight it holds for forecasting.
+
+Week 2:
+
+  - Different and more effective ways to remove missing values.
+  
+  - Various examples on how to visualize linear models and when to use what type of visualization.
+  
+Week 3:
+
+  - Comfortably understanding linear regression/mlr enough to explore more efficent models.
+  
+  - How to make predictions from your data rather than just producing a model.
+  
+Week 4:
+
+  - Tying in previously learned mathmatical formulas into programming through logistic regression.
+  
+  - Applying concepts such as the ROC curve to my own models.
+  
+Week 5:
+
+  - The advantages and disadvantages of a Generalized Linear Model.
+  
+  - Real life applications of count data models.
+  
+Week 6:
+
+  - The importance of trees and how they are a building block for many other models.
+  
+  - Applying the RMSE value.
+  
+Week 7:
+
+  - How to select the optimal amount of clusters.
+  
+  - Applications of how models like these are used in the real world. 
+  
+Week 8:
+
+  - Preparing your data is only half the battle-- in order to reach sucess in this field it is important that you do your work justice and present your findings in the most optimal way.
+  
+  - How to make a GitHub account and some of the features that the platform has to offer.
+  
